@@ -5,4 +5,6 @@ http.createServer(function (req, res) {
 
 res.write('<p>Happy World!</p>');
 
+res.end();
+
 }).listen(port);
