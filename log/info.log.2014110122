@@ -1,0 +1,9 @@
+{"level":"info","message":"sharding __init_call ","timestamp":"2014-11-01T13:00:43.021Z"}
+{"level":"info","message":"User init Call","timestamp":"2014-11-01T13:00:43.042Z"}
+{"level":"info","message":"Character init Call","timestamp":"2014-11-01T13:00:43.046Z"}
+{"level":"info","message":"Item init Call","timestamp":"2014-11-01T13:00:43.053Z"}
+{"level":"info","message":"Game init Call","timestamp":"2014-11-01T13:00:43.059Z"}
+{"level":"info","message":"Mission init Call","timestamp":"2014-11-01T13:00:43.062Z"}
+{"level":"info","message":"Friend init Call","timestamp":"2014-11-01T13:00:43.065Z"}
+{"ip":"127.0.0.1","data":{"cmd":1001,"info":["abc","123"]},"level":"info","message":"","timestamp":"2014-11-01T13:02:57.891Z"}
+{"ip":"127.0.0.1","data":{"cmd":1001,"info":["abc","123"]},"level":"info","message":"","timestamp":"2014-11-01T13:04:51.800Z"}
